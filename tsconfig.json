@@ -20,7 +20,7 @@
     "noEmit": true,
     "sourceMap": true,
     "noImplicitAny": true,
-    "jsx": "react"
+    "jsx": "preserve"
   },
   "include": [
     "src"
